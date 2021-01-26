@@ -3,7 +3,7 @@
 ### App Description
 My First Repository on Github
 
-### App Walk-though
+### App Walk-through
 `
 <img src="C:\Users\RF511\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\LICEcap\Hello Gif.gif" width=960><br>
 
